@@ -2,6 +2,7 @@
 - Hello, I’m Archana 
 - 👀Currently, I am a Grad student in UNC Charlotte in the department of Computer Science with a concentration in Information Security and Privacy. 
 - I am working towards my Security+ Certification (MY First cert in this AREA!) :satisfied:
+!(https://github.com/asuraST/About-me/files/10923097/22s_P_000140_Python_Archana_Subba.pdf)
 
 
 
